@@ -24,7 +24,7 @@ git clone https://github.com/abhismatrix3/dog-project.git
 ```
 1.1 Upload this folder (with name 'dog-project' to google drive in 'My Drive' folder in your drive (dont create new 'My drive' folder. it is the landing folder of your drive) and open 'dog_app.ipynb' using colab (after uploading click on 'dog_app.ipynb' file in drive and use open with colab)
 
-Note : make sure the path to dog_app.ipynb file in drive is 'My Drive/dog_project/dog_app.ipynb'
+Note : make sure the path to dog_app.ipynb file in drive is 'My Drive/dog-project/dog_app.ipynb'
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  You can do this by executing code cell in notebook at step00 .
 
