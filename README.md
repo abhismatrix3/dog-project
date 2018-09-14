@@ -22,13 +22,15 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 git clone https://github.com/abhismatrix3/dog-project.git
 
 ```
-1.1 Upload this folder to google drive and open 'dog_app.ipynb' using colab (after uploading click on this file in drive and use open with colab)
+1.1 Upload this folder (with name 'dog-project' to google drive in 'My Drive' folder in your drive (dont create new 'My drive' folder. it is the landing folder of your drive) and open 'dog_app.ipynb' using colab (after uploading click on 'dog_app.ipynb' file in drive and use open with colab)
 
-2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and upload to google drive , at location `path/to/dog-project/dogImages` on drive. 
+Note : make sure the path to dog_app.ipynb file in drive is 'My Drive/dog_project/dog_app.ipynb'
 
-3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and Unzip the folder and upload to google drive, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
+2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  You can do this by executing code cell in notebook at step00 .
 
-4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Unzip the folder and upload to google drive, at location `path/to/dog-project/bottleneck_features`.
+3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  You can do this by executing code cell in notebook at step00 .  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
+
+4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. You can do this by executing code cell in notebook at step00 .
 
 
 
